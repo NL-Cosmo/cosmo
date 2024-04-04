@@ -1,4 +1,4 @@
-![White text saying "Cosmo" with the O replaced with a UFO like symbol and star like shape at the top right](./assets/cosmoBarker.png)
+![White text saying "Cosmo" with the O replaced with a UFO like symbol and star like shape at the top right](https://raw.githubusercontent.com/NL-Cosmo/cosmo/main/assets/CosmoBarker.png)
 
 # Cosmo
 ### Staff, Server & Community Management System
