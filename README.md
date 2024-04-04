@@ -1,2 +1,10 @@
-# cosmo
-Cosmo Community Support &amp; Update Repo
+![White text saying "Cosmo" with the O replaced with a UFO like symbol and star like shape at the top right](./assets/cosmoBarker.png)
+
+# Cosmo
+### Staff, Server & Community Management System
+
+## Suggestions
+Suggestions can be created directly within your Cosmo panel. Check your User Settings to access this. You can also suggest features via the [GitHub Discussions](https://github.com/orgs/NL-Cosmo/discussions) page.
+
+## Bugs
+Bugs can be reported directly within your Cosmo panel via the User Settings. You can also report bugs via the [GitHub Issues](https://github.com/NL-Cosmo/cosmo/issues) page.
